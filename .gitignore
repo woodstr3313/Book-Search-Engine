@@ -3,3 +3,9 @@
 
 # Ada Library Information
 *.ali
+
+Develop/client/node_modules
+Develop/server/node_modules
+
+Develop/client/build
+Develop/server/build

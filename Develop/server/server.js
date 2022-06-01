@@ -2,9 +2,28 @@ const express = require('express');
 const path = require('path');
 const db = require('./config/connection');
 const routes = require('./routes');
-
+const {ApolloServer, gql} = require('apollo-server-express')
 const app = express();
 const PORT = process.env.PORT || 3001;
+const typeDefs = gql`
+                  type Query{
+                    hello:String
+                  }`;
+
+const resolvers = {
+  Query:{
+    hello:()=>'Hello World'
+  },
+};
+async function startServer() {
+  const server = new ApolloServer({
+      typeDefs,
+      resolvers,
+  });
+  await server.start();
+  server.applyMiddleware({ app });
+}
+startServer();
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
