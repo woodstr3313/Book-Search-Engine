@@ -4,8 +4,9 @@
 # Ada Library Information
 *.ali
 
-Develop/client/node_modules
-Develop/server/node_modules
+client/node_modules
+server/node_modules
 
-Develop/client/build
-Develop/server/build
+client/build
+Assets
+**/*DS_Store
