@@ -23,7 +23,7 @@
 
   !["Sign Up”.](./Assets/SignUp.png)
 
-  ![Walkthrough Video](https://drive.google.com/file/d/1QXEoU4CRbZ5LiN0CfWSfFZ4_BC9tlUx1/view)
+  Walkthrough Video: https://drive.google.com/file/d/1QXEoU4CRbZ5LiN0CfWSfFZ4_BC9tlUx1/view
   
 
 ## Credits
