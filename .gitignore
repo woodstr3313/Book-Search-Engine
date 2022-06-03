@@ -4,8 +4,8 @@
 # Ada Library Information
 *.ali
 
-client/node_modules
-server/node_modules
+node_modules
+**/*/node_modules
 
 client/build
 Assets
