@@ -15,7 +15,7 @@
 ## Usage
   [Deployed Link](https://book-search-engine-gatech.herokuapp.com/)
 
-  !["Book Search Engine”.](/Assets/BookSearchEngine.png)
+  !["Book Search Engine”.](../Book-Search-Engine/Assets/BookSearchEngine.png)
 
   !["Saved Books”.](/Assets/SavedBooks.png)
 
