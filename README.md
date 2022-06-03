@@ -15,13 +15,13 @@
 ## Usage
   [Deployed Link](https://book-search-engine-gatech.herokuapp.com/)
 
-  !["Book Search Engine”.](./Assets/BookSearchEngine.png)
+  !["Book Search Engine”.](/Assets/BookSearchEngine.png)
 
-  !["Saved Books”.](./Assets/Saved%20Books.png)
+  !["Saved Books”.](/Assets/SavedBooks.png)
 
-  !["Sign In”.](./Assets/SignIn.png)
+  !["Sign In”.](/Assets/SignIn.png)
 
-  !["Sign Up”.](./Assets/SignUp.png)
+  !["Sign Up”.](/Assets/SignUp.png)
 
   Walkthrough Video: https://drive.google.com/file/d/1QXEoU4CRbZ5LiN0CfWSfFZ4_BC9tlUx1/view
   
